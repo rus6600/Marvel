@@ -440,6 +440,12 @@ h1 {
   color: var(--clr-white);
 }
 
+.contacts_text {
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: var(--clr-white);
+}
+
 .footer {
   background-color: var(--clr-grey);
   color: var(--clr-white);
